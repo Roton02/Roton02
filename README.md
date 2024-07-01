@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/mdsanaulla75762" target="blank"><img src="https://img.shields.io/twitter/follow/mdsanaulla75762?logo=twitter&style=for-the-badge" alt="mdsanaulla75762" /></a> </p>
 
-- 🔭 I’m currently working on [Lapse Pet](https://ephemeral-queijadas-e60793.netlify.app/)
-
 - 🌱 I’m currently learning **on Compuiter Science and Technology**
+- 
+- 🔭 A project I recently completed [Lapse Pet](https://ephemeral-queijadas-e60793.netlify.app/)
 
-- 👯 I’m looking to collaborate on [Food picky](https://a11-kynus-foodie.web.app/)
+- 👯 
 
-- 🤝 I’m looking for help with [Globe Glimpse](https://wondrous-daffodil-69d353.netlify.app/)
+- 🤝 
 
-- 📫 How to reach me **rph645102@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
