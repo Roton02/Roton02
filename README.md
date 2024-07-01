@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/mdsanaulla75762" target="blank"><img src="https://img.shields.io/twitter/follow/mdsanaulla75762?logo=twitter&style=for-the-badge" alt="mdsanaulla75762" /></a> </p>
 
 - 🌱 I’m currently learning **on Compuiter Science and Technology**
-- 
 - 🔭 A project I recently completed [Lapse Pet](https://ephemeral-queijadas-e60793.netlify.app/)
 
 - 👯 
@@ -16,12 +15,9 @@
 - 🤝 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/roton2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roton2" height="30" width="40" /></a>
 <a href="https://twitter.com/mdsanaulla75762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsanaulla75762" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-sana-ullah12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sana-ullah12/" height="30" width="40" /></a>
