@@ -3,16 +3,29 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sana+Ullah+Roton!;" />
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roton02&label=Profile%20views&color=0e75b6&style=flat" alt="roton02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mdsanaulla75762" target="blank"><img src="https://img.shields.io/twitter/follow/mdsanaulla75762?logo=twitter&style=for-the-badge" alt="mdsanaulla75762" /></a> </p>
 
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 💻 I’m currently learning **on Compuiter Science and Technology**
 - 🔭 A project I recently completed [Lapse Pet](https://ephemeral-queijadas-e60793.netlify.app/)
 - 🎯 Currently I try to  exploring in next js and typscript
 - 📩 Reach me at sanaullahroton01@gmail.com
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 # 💫 About Me:
 Hello, I’m Sana ullah Roton, .my core skill is based on javaScript<br>and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying Computer Science And Technology  at Shariatpur polytechnic Institute , Bangladesh. 
 
