@@ -47,13 +47,14 @@ Hello, I’m Sana ullah Roton, .my core skill is based on javaScript<br>and I lo
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Roton02&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <br>  <br> 
+ <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Roton02&theme=dark&show_icons=true&count_private=true" />
+  </br>
   
 </td>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Roton02&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
