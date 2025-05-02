@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sana+Ullah+Roton!;" />
 </h1>
-<h3 align="center">With a passion for crafting intuitive and user-friendly web applications, I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</h3>
+<h4 align="center" padding-x='40px' >A Mern stack developer With a passion for crafting intuitive and user-friendly web applications, I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</h4>
 
 
 
