@@ -19,9 +19,8 @@
 - 🤖 Focusing on **MCP Server and AI Implementation** for new projects
 - 🏢 Building an **Advanced HR Management System** (Full Stack Project)
 - 💻 I'm currently learning **Computer Science and Technology**
-- 🔭 A project I recently completed [Lapse Pet](https://ephemeral-queijadas-e60793.netlify.app/)
 - 🌐 Check out my **[Portfolio](https://sana-ullah-roton.web.app/)**
-- 🎯 Currently exploring **Next.js and TypeScript**
+- 🎯 Currently exploring **Socket io and prisma with mongoDB**
 - 📩 Reach me at **sanaullahroton01@gmail.com**
 
 </td>
@@ -67,6 +66,9 @@ Hello, I'm Sana Ullah Roton, my core skill is based on JavaScript and I love to 
  
  <img width="450" hight="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Roton02&theme=dark&show_icons=true&count_private=true" />
   </br>
+  <div align="center">
+  <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Roton02&show_icons=true&theme=dark&hide_border=false&count_private=true" />
+</div>
   
 </td>
 <td width="50%" align="center">
@@ -76,9 +78,7 @@ Hello, I'm Sana Ullah Roton, my core skill is based on JavaScript and I love to 
 </tr>
 </table>
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Roton02&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-</div>
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
@@ -87,65 +87,123 @@ Hello, I'm Sana Ullah Roton, my core skill is based on JavaScript and I love to 
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+</div>
+<h4 align="center">🎨 Frontend Development</h4>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <br>html5
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <br>css3
+      <br>CSS3
     </td>
-      <td align="center" width="96">
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-      <br>Tailwind
-    </td>
-     <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <br>React
     </td>
-       <td align="center" width="96">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-      <br>firebase
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+      <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-      <br>nodejs
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+      <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://i.ibb.co/KVcXkcL/express.png" width="48" height="48" alt="express js" />
-      </a>
-      <br>expressJs
-    </td>
-    <td align="center"  width="96">
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-      <br>mongodb
-    </td>
-    <td align="center" width="96">
-     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-      <br>photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-      <br>illustrator
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+      <br>TypeScript
     </td>
   </tr>
 </table>
+<h4 align="center">⚙️ Backend Development</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://i.ibb.co/KVcXkcL/express.png" width="48" height="48" alt="express js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/> </a>
+      <br>JWT
+    </td>
+  </tr>
+</table>
+<h4 align="center">🗄️ Database & ORM</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://prisma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+<h4 align="center">🛠️ Tools & Design</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a>
+      <br>Vercel
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <h3>
 
 <h3 align="center">🔥 Currently Learning & Exploring</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,python,docker,ai" />
-</div>
-
-<div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roton02&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
+     <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=white" />
+     <img src="https://img.shields.io/badge/AI_Implementation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Server-4ECDC4?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Databases-45B7D1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
 ---
@@ -154,6 +212,3 @@ Hello, I'm Sana Ullah Roton, my core skill is based on JavaScript and I love to 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!;Always+learning%2C+always+coding!" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
